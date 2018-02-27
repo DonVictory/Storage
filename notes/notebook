@@ -1,0 +1,5 @@
+1.
+<h2>解决Scrapy安装错误:Microsoft Visual C++ 14.0 is required...</h2>
+<a>https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted</a>找到对应版本
+pip install C:\Users\CR\Downloads\Twisted-17.5.0-cp36-cp36m-win_amd64.whl
+pip install Scrapy
